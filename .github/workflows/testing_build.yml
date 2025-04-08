@@ -1,4 +1,4 @@
-name: Build Unsigned IPA stikdebug
+name: Build Unsigned Testing IPA
 
 on:
   workflow_dispatch:
